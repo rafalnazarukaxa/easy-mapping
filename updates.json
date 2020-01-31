@@ -1,0 +1,80 @@
+{
+    "addons":  {
+                   "easyMapping@test-factory.eu":  {
+                                                       "updates":  [
+                                                                       {
+                                                                           "version":  "20.1.23.7",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-20.1.23.7.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "20.1.23.6",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-20.1.23.6.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "20.1.23.4",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-20.1.23.4.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "20.1.23.3",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-20.1.23.3.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "20.1.14.5",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-20.1.14.5.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "20.1.14.4",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-20.1.14.4.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "20.1.14.3",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-20.1.14.3.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "20.1.14.2",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-20.1.14.2.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "19.9.16.5",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-19.9.16.5.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "19.9.16.2",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-19.9.16.2.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "19.5.13.1",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-19.5.13.1.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "19.4.19.1",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-19.4.19.1.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "19.4.12.1",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-19.4.12.1.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "19.3.22.2",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-19.3.22.2.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "19.3.20.1",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-19.3.20.1.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "19.3.19.3",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-19.3.19.3.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "19.3.14.1",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-19.3.14.1.xpi"
+                                                                       },
+                                                                       {
+                                                                           "version":  "19.3.13.9",
+                                                                           "update_link":  "http://svmadstf1.ads-pl.intraxa/TestFactory/EasyMapping/test_factory_browser_extension-19.3.13.9.xpi"
+                                                                       }
+                                                                   ]
+                                                   }
+               }
+}
